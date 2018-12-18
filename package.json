@@ -1,0 +1,11 @@
+{
+  "name": "bfch_quiz",
+  "version": "1.0.0",
+  "description": "열매맺는교회 퀴즈앱.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ranian129@gmail.com",
+  "license": "ISC"
+}
